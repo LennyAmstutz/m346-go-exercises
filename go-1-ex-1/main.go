@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	var firstName string = "Lenny"
-	var lastName string = "Lenny"
+	var lastName string = "Amstutz"
 
 	var dayOfBirth int = 20
 	var monthOfBirth int = 10
