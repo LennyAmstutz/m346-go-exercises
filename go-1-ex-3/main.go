@@ -23,7 +23,4 @@ func main() {
 	fmt.Println("the dice shows", eyes, "eyes")
 
 	fmt.Println("the dice was rolled at", when)
-
-	// TODO: how to write the output into eyes.txt and dice.log?
-	// go run ex3/main.go TODO
 }
